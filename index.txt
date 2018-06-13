@@ -1,11 +1,11 @@
 Programación Orientada Objetos 
-¿La P.O.O es un paradigma o una técnica? R: La POO en mi opinión es más parecido a un paradigma que a una 
-técnica de programación, ya que los paradigmas son diferentes maneras de ver el mundo y por lo tanto de representarlos 
-ya en la programación el programador debe ver el mundo de una manera muy analista ya que en la Programación orientada a objetos, 
-como su nombre lo indica se deben de considerar bien que aspectos si cumplen lo que sería un objeto y cuáles son las 
-propiedades de dicho objeto y los métodos que puede llegar a tener dicho objeto en este sentido podemos decir que es un 
-objeto cuando tiene propiedades(atributos) y los métodos respectivos que es donde debemos de asignarle las operaciones 
-necesarias que contiene dicho objeto.
+¿La P.O.O es un paradigma o una técnica? 
+R: La POO en mi opinión es más parecido a un paradigma que a una técnica de programación, ya que los paradigmas son diferentes 
+maneras de ver el mundo y por lo tanto de representarlos ya en la programación el programador debe ver el mundo de una manera 
+muy analista ya que en la Programación orientada a objetos, como su nombre lo indica se deben de considerar bien que aspectos 
+si cumplen lo que sería un objeto y cuáles son las propiedades de dicho objeto y los métodos que puede llegar a tener dicho 
+objeto en este sentido podemos decir que es un objeto cuando tiene propiedades(atributos) y los métodos respectivos que es donde 
+debemos de asignarle las operaciones necesarias que contiene dicho objeto.
 
 2)¿Por qué no sería una técnica? R: Considero que NO es una técnica basado en que la técnica es una forma mecánica y se 
 encarga de realizar los pasos o procedimientos de determinado conjunto de elementos que se desean realizar para llegar 
